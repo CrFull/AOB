@@ -1,0 +1,16 @@
+C:\Users\aluno\source\repos\VendaProduto\VendaProduto\bin\Debug\VendaProduto.exe.config
+C:\Users\aluno\source\repos\VendaProduto\VendaProduto\bin\Debug\VendaProduto.exe
+C:\Users\aluno\source\repos\VendaProduto\VendaProduto\bin\Debug\VendaProduto.pdb
+C:\Users\aluno\source\repos\VendaProduto\VendaProduto\obj\Debug\VendaProduto.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\VendaProduto\VendaProduto\obj\Debug\VendaProduto.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\VendaProduto\VendaProduto\obj\Debug\VendaProduto.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\VendaProduto\VendaProduto\obj\Debug\VendaProduto.exe
+C:\Users\aluno\source\repos\VendaProduto\VendaProduto\obj\Debug\VendaProduto.pdb
+C:\Users\joaos\Desktop\VendaProduto\VendaProduto\bin\Debug\VendaProduto.exe.config
+C:\Users\joaos\Desktop\VendaProduto\VendaProduto\bin\Debug\VendaProduto.exe
+C:\Users\joaos\Desktop\VendaProduto\VendaProduto\bin\Debug\VendaProduto.pdb
+C:\Users\joaos\Desktop\VendaProduto\VendaProduto\obj\Debug\VendaProduto.csproj.AssemblyReference.cache
+C:\Users\joaos\Desktop\VendaProduto\VendaProduto\obj\Debug\VendaProduto.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaos\Desktop\VendaProduto\VendaProduto\obj\Debug\VendaProduto.csproj.CoreCompileInputs.cache
+C:\Users\joaos\Desktop\VendaProduto\VendaProduto\obj\Debug\VendaProduto.exe
+C:\Users\joaos\Desktop\VendaProduto\VendaProduto\obj\Debug\VendaProduto.pdb

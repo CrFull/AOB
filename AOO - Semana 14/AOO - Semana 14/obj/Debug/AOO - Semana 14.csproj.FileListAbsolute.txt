@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\AOO - Semana 14\AOO - Semana 14\bin\Debug\AOO - Semana 14.exe.config
+C:\Users\aluno\source\repos\AOO - Semana 14\AOO - Semana 14\bin\Debug\AOO - Semana 14.exe
+C:\Users\aluno\source\repos\AOO - Semana 14\AOO - Semana 14\bin\Debug\AOO - Semana 14.pdb
+C:\Users\aluno\source\repos\AOO - Semana 14\AOO - Semana 14\obj\Debug\AOO - Semana 14.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\AOO - Semana 14\AOO - Semana 14\obj\Debug\AOO - Semana 14.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\AOO - Semana 14\AOO - Semana 14\obj\Debug\AOO - Semana 14.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\AOO - Semana 14\AOO - Semana 14\obj\Debug\AOO - Semana 14.exe
+C:\Users\aluno\source\repos\AOO - Semana 14\AOO - Semana 14\obj\Debug\AOO - Semana 14.pdb
